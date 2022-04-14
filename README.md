@@ -2,7 +2,7 @@
 
 I'm looking for a contractor who can help me with a few projects we have been working on in our online learning platform web app called [HeatSpring](https://heatspring.com).
 
-The app is over 10 years old but has been keep up to date and recently underwent a large upgrade, our current stack is:
+The app is over 10 years old but has been keep pretty up to date and recently underwent a large upgrade, our current stack is:
 - Rails 7.0
 - Ruby 3.1
 - Hotwire
