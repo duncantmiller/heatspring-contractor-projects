@@ -30,8 +30,8 @@ All these related to implementing high fidelity wireframes from our designer [Fe
 
 - refactor our existing admin routing which uses the [routing-filter gem](https://github.com/svenfuchs/routing-filter) and custom filters. We'd like to remove the gem and rework how admin access works. I don't think we want to migrate to administrate like JSP since we already have the admin pages built out, but instead implement a similar concept of nested routes and controllers for admin views. Some of the views (particularly in the classroom) currently are the same for both admins and non-admins and we have a lot of conditional statements around content and buttons based on access level. So we'd like to move towards seperating those out into different controllers and managing permissions at the controller level.
 - migrate our existing notification system to JumpstartPro notifications + [noticed gem](https://github.com/excid3/noticed)
-- migrate our existing checkout process to JumpstartPro checkout + [pay gem](https://github.com/pay-rails/pay)
-- migrate our existing subscriptions to JumpstartPro subscriptions + [pay gem](https://github.com/pay-rails/pay)
+- migrate our existing checkout process with Stripe to JumpstartPro checkout + [pay gem](https://github.com/pay-rails/pay)
+- migrate our existing subscriptions with Stripe to JumpstartPro subscriptions + [pay gem](https://github.com/pay-rails/pay)
 - help *hotwireize* our app by adding new front-end features and modernizing existing features using Turbo, StimulusJS and Hotwire.
 
 ## Who we are looking for
@@ -41,11 +41,11 @@ All these related to implementing high fidelity wireframes from our designer [Fe
 - Experience with the JumpstartPro template
 - A solid understanding of Hotwire, Turbo and StimulusJS and an interest in learning and developing best practices around those as they continue to evolve
 - Cares about TDD and code maintainability and can think in terms of a small team capacity
-- Responsive and will follow through on commitments, we don’t have extremely hard deadlines but we are eager to make these changes
+- Responsive and will follow through on commitments, we don’t have any hard deadlines but we are eager to make these changes
 
 ## About HeatSpring
 
-HeatSpring provides highly technical online training, credentialing and certification for professionals in industries addressing the climate crisis like solar, energy storage, geothermal, drones and green building. We help industry experts make money by sharing their knowledge with engineers, electricians, business owners, contractors, designers and installers. We have been in business since 2007 and are well known and respected in our niche industries.
+HeatSpring provides highly technical online training towards credentialing and certification for professionals in industries addressing the climate crisis like solar, energy storage, geothermal, drones and green building. We help industry experts make money by sharing their knowledge with engineers, electricians, business owners, contractors, designers and installers. Students get access to great content and pathways to earn and maintain respected industry credentials and certifications. We have been in business since 2007 in our niche industries. We are a tiny core team partnering with a lot of expert instructors that we share revenue with.
 
 ## Why you should want to work with us
 
