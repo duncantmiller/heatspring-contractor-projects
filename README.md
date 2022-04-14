@@ -45,7 +45,7 @@ All these relate to implementing high fidelity wireframes from our designer [Fel
 
 ## About HeatSpring
 
-HeatSpring provides highly technical online training towards credentialing and certification for professionals in industries addressing the climate crisis like solar, energy storage, geothermal, drones and green building. We help industry experts make money by sharing their knowledge with engineers, electricians, business owners, contractors, designers and installers. Students get access to great content and pathways to earn and maintain respected industry credentials and certifications. We have been in business since 2007 in our niche industries. We are a tiny core team partnering with a lot of expert instructors that we share revenue with.
+HeatSpring provides highly technical online training towards credentialing and certification for professionals in industries addressing the climate crisis like solar, energy storage, geothermal, drones and green building. We help industry experts make money by sharing their knowledge with engineers, electricians, business owners, contractors, designers and installers. Students get access to great content and instructor support as well as a pathway to earn and maintain respected industry credentials and certifications. We have been in business since 2007 in our niche industries. We are a tiny core team partnering with a lot of expert instructors that we share revenue with.
 
 ## Why you should want to work with us
 
