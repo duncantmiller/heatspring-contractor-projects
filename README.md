@@ -18,7 +18,7 @@ So there are two main project categories I need help with:
 
 ### Redesign Projects:
 
-All these related to implement high fidelity wireframes from our designer [Felix Meens](https://www.felixmeens.com/) using TailwindCSS (designs delivered in a Figma file and Tailwind oriented). We already have tailwind set up in the app have designs for our 3 main marketing pages 95% implemented in tailwind by Chris. We are using both Tailwind and our old CSS with some minor cosmetic updates (fonts, colors etc) so we now have the ability to migrate one page at a time to Tailwind. Most of the pages will be custom designed but we will also be using some TailwindUI especially as we move more towards admin pages.
+All these related to implementing high fidelity wireframes from our designer [Felix Meens](https://www.felixmeens.com/) using TailwindCSS (designs delivered in a Figma file and Tailwind oriented). We already have tailwind set up in the app have designs for our 3 main marketing pages 95% implemented in tailwind by Chris. We are using both Tailwind and our old CSS with some minor cosmetic updates (fonts, colors etc) so while to goal is to fully migrate to Tailwind we have the ability to migrate pages individually. Most of the pages will be custom designed but we will also be using some TailwindUI especially as we move more towards admin pages.
 
 - Complete the remaining 5% of tweaks left on the the first batch of pages. 
 - Implement a second batch of pages focused on our classroom and account that Felix is nearly done designing.
@@ -50,7 +50,7 @@ HeatSpring provides highly technical online training, credentialing and certific
 
 We are an easy going, flexible and positive team, our customers love us, and we help share knowledge that will make the world better.
 
-Feel free to email me directly at duncan@heatspring.com if you are interested or have any questions. I'm HeatSpring's solo full time developer but I also help run other business functions like accounting, finance and general IT work. I would probably be considered a mid-level developer so I'm happy to help but I need some guidance and examples to go off of and am always looking to learn more.
+Feel free to email me directly at duncan@heatspring.com if you are interested or have any questions. I'm HeatSpring's solo full time developer but I also help run other business functions. I would probably be considered a mid-level developer so I'm ready to help but I need some guidance and examples to go off of and am always looking to learn more.
 
 Thanks for reading!
 
