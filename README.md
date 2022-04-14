@@ -14,9 +14,10 @@ The app is over 10 years old but has been keep pretty up to date and recently un
 
 We have recently merged in the [JumpstartPro](https://jumpstartrails.com/) template functionality to our app with the help of [Chris Oliver](https://excid3.com/). There are a few additional features we want to add and some additional restructuring we need help with. At the same time, we have also begun to implement a redesign of the front end using TailwindCSS and migrate away from our existing CSS. Chris will continue to be involved but will act more as a consultant and adviser for high level architecture questions in the next phases of our plans.
 
-So there are two main project categories I need help with:
+### Projects
+There are two main project categories I need help with:
 
-### Redesign Projects:
+#### Redesign Projects:
 
 All these related to implementing high fidelity wireframes from our designer [Felix Meens](https://www.felixmeens.com/) using TailwindCSS (designs delivered in a Figma file and Tailwind oriented). We already have tailwind set up in the app have designs for our 3 main marketing pages 95% implemented in tailwind by Chris. We are using both Tailwind and our old CSS with some minor cosmetic updates (fonts, colors etc) so while to goal is to fully migrate to Tailwind we have the ability to migrate pages individually. Most of the pages will be custom designed but we will also be using some TailwindUI especially as we move more towards admin pages.
 
@@ -25,7 +26,7 @@ All these related to implementing high fidelity wireframes from our designer [Fe
 - Implement a third batch related to other marketing pages and instructor admin pages that have not yet been designed. 
 - Help setting up good patterns for when to use components, partials or ViewComponents etc along the way. As well as general help in organizing and structuring tailwind related code as we continue to add to it.
 
-### App + JumpstartPro Projects:
+#### App + JumpstartPro Projects:
 
 - refactor our existing admin routing which uses the [routing-filter gem](https://github.com/svenfuchs/routing-filter) and custom filters. We'd like to remove the gem and rework how admin access works. I don't think we want to migrate to administrate like JSP since we already have the admin pages built out, but instead implement a similar concept of nested routes and controllers for admin views. Some of the views (particularly in the classroom) currently are the same for both admins and non-admins and we have a lot of conditional statements around content and buttons based on access level. So we'd like to move towards seperating those out into different controllers and managing permissions at the controller level.
 - migrate our existing notification system to JumpstartPro notifications + [noticed gem](https://github.com/excid3/noticed)
@@ -33,7 +34,7 @@ All these related to implementing high fidelity wireframes from our designer [Fe
 - migrate our existing subscriptions to JumpstartPro subscriptions + [pay gem](https://github.com/pay-rails/pay)
 - help *hotwireize* our app by adding new front-end features and modernizing existing features using Turbo, StimulusJS and Hotwire.
 
-## What we are looking for
+## Who we are looking for
 
 - Experience with TailwindCSS and implementing wireframes from a designer in Rails
 - Able to help set up a solid organized system for Tailwind as we continue to build it out
