@@ -15,13 +15,13 @@ The app is over 10 years old but has been keep pretty up to date and recently un
 We have recently merged in the [JumpstartPro](https://jumpstartrails.com/) template functionality to our app with the help of [Chris Oliver](https://excid3.com/). There are a few additional features we want to add and some additional restructuring we need help with. At the same time, we have also begun to implement a redesign of the front end using TailwindCSS and migrate away from our existing CSS. Chris will continue to be involved but will act more as a consultant and adviser for high level architecture questions in the next phases of our plans.
 
 ### Projects
-There are two main project categories I need help with:
+There are two main project categories I need help with in rough order of priority:
 
 #### Redesign Projects:
 
-All these relate to implementing high fidelity wireframes from our designer [Felix Meens](https://www.felixmeens.com/) using TailwindCSS (designs delivered in a Figma file and Tailwind oriented). We already have tailwind set up in the app have designs for our 3 main marketing pages 95% implemented in tailwind by Chris. We are using both Tailwind and our old CSS with some minor cosmetic updates (fonts, colors etc) so while to goal is to fully migrate to Tailwind we have the ability to migrate pages individually. Most of the pages will be custom designed but we will also be using some TailwindUI especially as we move more towards admin pages.
+All these relate to implementing high fidelity wireframes from our designer [Felix Meens](https://www.felixmeens.com/) using TailwindCSS (designs delivered in a Figma file and Tailwind oriented). We already have tailwind set up in the app have designs for our 3 main marketing pages 90% implemented in tailwind by Chris. We are using both Tailwind and our old CSS with some minor cosmetic updates (fonts, colors etc) so while to goal is to fully migrate to Tailwind we have the ability to migrate pages individually. Most of the pages will be custom designed but we will also be using some TailwindUI especially as we move more towards admin pages.
 
-- Complete the remaining 5% of tweaks left on the the first batch of pages. 
+- Complete the remaining 10% of tweaks left on the the first batch of pages. 
 - Implement a second batch of pages focused on our classroom and account that Felix is nearly done designing.
 - Implement a third batch related to other marketing pages and instructor admin pages that have not yet been designed. 
 - Help setting up good patterns for when to use components, partials or ViewComponents etc along the way. As well as general help in organizing and structuring tailwind related code as we continue to add to it.
