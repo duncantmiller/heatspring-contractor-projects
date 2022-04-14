@@ -19,7 +19,7 @@ There are two main project categories I need help with:
 
 #### Redesign Projects:
 
-All these related to implementing high fidelity wireframes from our designer [Felix Meens](https://www.felixmeens.com/) using TailwindCSS (designs delivered in a Figma file and Tailwind oriented). We already have tailwind set up in the app have designs for our 3 main marketing pages 95% implemented in tailwind by Chris. We are using both Tailwind and our old CSS with some minor cosmetic updates (fonts, colors etc) so while to goal is to fully migrate to Tailwind we have the ability to migrate pages individually. Most of the pages will be custom designed but we will also be using some TailwindUI especially as we move more towards admin pages.
+All these relate to implementing high fidelity wireframes from our designer [Felix Meens](https://www.felixmeens.com/) using TailwindCSS (designs delivered in a Figma file and Tailwind oriented). We already have tailwind set up in the app have designs for our 3 main marketing pages 95% implemented in tailwind by Chris. We are using both Tailwind and our old CSS with some minor cosmetic updates (fonts, colors etc) so while to goal is to fully migrate to Tailwind we have the ability to migrate pages individually. Most of the pages will be custom designed but we will also be using some TailwindUI especially as we move more towards admin pages.
 
 - Complete the remaining 5% of tweaks left on the the first batch of pages. 
 - Implement a second batch of pages focused on our classroom and account that Felix is nearly done designing.
