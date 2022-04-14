@@ -1,6 +1,6 @@
-# HeatSpring Contractor Role
+# HeatSpring Contractor Projects
 
-I'm looking for a contractor who can help me with a few projects we have been working on in our online learning platform web app called [HeatSpring](https://heatspring.com).
+I'm looking for contractors who can help me with a few projects we have been working on in our online learning platform web app called [HeatSpring](https://heatspring.com).
 
 The app is over 10 years old but has been keep pretty up to date and recently underwent a large upgrade, our current stack is:
 - Rails 7.0
@@ -33,7 +33,7 @@ All these related to implementing high fidelity wireframes from our designer [Fe
 - migrate our existing subscriptions to JumpstartPro subscriptions + [pay gem](https://github.com/pay-rails/pay)
 - help *hotwireize* our app by adding new front-end features and modernizing existing features using Turbo, StimulusJS and Hotwire.
 
-## Ideal Contractor
+## What we are looking for
 
 - Experience with TailwindCSS and implementing wireframes from a designer in Rails
 - Able to help set up a solid organized system for Tailwind as we continue to build it out
