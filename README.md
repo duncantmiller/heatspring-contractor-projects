@@ -32,7 +32,7 @@ All these relate to implementing high fidelity wireframes from our designer [Fel
 - migrate our existing notification system to JumpstartPro notifications + [noticed gem](https://github.com/excid3/noticed)
 - migrate our existing checkout process with Stripe to JumpstartPro checkout + [pay gem](https://github.com/pay-rails/pay)
 - migrate our existing subscriptions with Stripe to JumpstartPro subscriptions + [pay gem](https://github.com/pay-rails/pay)
-- help *hotwireize* our app by adding new front-end features and modernizing existing features using Turbo, StimulusJS and Hotwire.
+- general help to *hotwireize* our app by adding new front-end features and modernizing existing features using Turbo, StimulusJS and Hotwire.
 
 ## Who we are looking for
 
@@ -40,7 +40,7 @@ All these relate to implementing high fidelity wireframes from our designer [Fel
 - Able to help set up a solid organized system for Tailwind as we continue to build it out
 - Experience with the JumpstartPro template
 - A solid understanding of Hotwire, Turbo and StimulusJS and an interest in learning and developing best practices around those as they continue to evolve
-- Cares about TDD and code maintainability and can think in terms of a small team capacity
+- Cares about TDD and code maintainability and extenability for a small team with limited resources
 - Responsive and will follow through on commitments, we don’t have any hard deadlines but we are eager to make these changes
 
 ## About HeatSpring
